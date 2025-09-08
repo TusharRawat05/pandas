@@ -1,0 +1,15 @@
+10
+20
+NaN-->30 
+40
+50
+this is interpolation
+
+linear
+
+1-preserve data integrity
+2- smooth trend
+3- avoid data loss
+
+interpolate- method use to fill the data
+interpolate()
